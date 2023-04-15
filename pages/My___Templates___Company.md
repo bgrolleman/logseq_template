@@ -1,5 +1,5 @@
 template:: Company
-template-include-parent:: false
+template-including-parent:: false
 type:: [[company]] 
 adress::
 city::
