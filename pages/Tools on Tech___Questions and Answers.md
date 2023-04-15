@@ -7,7 +7,6 @@
 		- [Logseq - Open Collective](https://opencollective.com/logseq)
 		  id:: 643a5672-b99d-454f-b118-8da8f2db1a06
 		- The open collective money is used to fund public projects and not Logseq as a business, so it's an amazing place to donate if you want more events, videos, documentation
-	- If you want to support more of my free work
-		- [Patreon](https://www.patreon.com/toolsontech)
-		- While my main focus is to
+	- If you want to support more of my free work [Patreon](https://www.patreon.com/toolsontech)
+		- I won't stop making free resources, as I want to help people but a
 	- If you want something cool in return - https://www.toolsontech.com/products
