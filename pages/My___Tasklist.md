@@ -6,4 +6,5 @@
 - ## Priority C Tasks - Delegate
 	- {{query (and (task TODO DOING LATER NOW IN-PROGRESS WAIT WAITING) (priority C))}}
 - ## Other Tasks
-	- {{query (and (task TODO NOW LATER DOING IN-PROGRESS) (not (priority A B C)) (not (namespace my)))}}
+	- {{query (and (task TODO NOW LATER DOING IN-PROGRESS) (not (priority A B C)))}}
+-
