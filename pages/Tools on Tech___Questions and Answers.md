@@ -4,4 +4,8 @@
 	- The examples for Contact, Projects and Books are easy to copy and modify. Remember, this is just a starting point
 - ## So I have all this money burning a hole in my pocket
 	- If you want to support more of my free work - https://www.patreon.com/toolsontech
-	-
+	- If you want something cool in return - https://www.toolsontech.com/products
+	- If you want to support Logseq in general
+		- [Logseq - Open Collective](https://opencollective.com/logseq)
+		  id:: 643a5672-b99d-454f-b118-8da8f2db1a06
+		- The open collective money is used to fund
