@@ -1,1 +1,1 @@
-- {{query }}
+- {{query (page-property :type [[company]])}}

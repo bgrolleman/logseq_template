@@ -22,7 +22,7 @@ owner:: [[Bas Grolleman]]
 		- DONE Template
 		- DONE Overview
 	- DONE [[My/Projects]]
-	- TODO [[My/Companies]]
+	- DONE [[My/Companies]]
 	- TODO [[My/Workflow]]
 	- TODO [[Tools on Tech/Getting Started]]
 - ## Slipnotes
