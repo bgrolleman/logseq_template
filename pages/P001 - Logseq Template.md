@@ -1,6 +1,7 @@
 type:: [[project]]
 state:: DOING
 priority:: A
+owner:: [[Bas Grolleman]]
 
 - ## Goal
 	- Have a basic layout people can use to get started with Logseq
@@ -25,5 +26,4 @@ priority:: A
 	- TODO [[My/Workflow]]
 	- TODO [[Tools on Tech/Getting Started]]
 - ## Slipnotes
-	-
--
+	- *Place block embeds here*
