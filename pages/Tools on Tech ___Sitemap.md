@@ -1,4 +1,3 @@
-- [[Tools on Tech/Getting Started]]
-- [[Tools on Tech/Questions and Answers]]
--
-- {{query (and (namespace [[my]]) (or) (namespace [[tools on tech]]))(and (namespace [[my]]) (or) (namespace [[tools on tech]]))(and (namespace [[my]]) (or))(namespace [[my]])}}
+- {{query (or (namespace [[my]]) (namespace [[tools on tech]]))}}
+  query-sort-by:: page
+  query-sort-desc:: false
