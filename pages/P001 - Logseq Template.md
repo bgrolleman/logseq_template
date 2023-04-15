@@ -2,7 +2,8 @@ type:: [[project]]
 state:: DOING
 priority:: A
 
--
+- ## Goal
+	- Have a basic layout people can use to get started with Logseq
 - ## Tasklist
 	- DONE [[My/Books]]
 	  collapsed:: true
@@ -23,4 +24,6 @@ priority:: A
 	- TODO [[My/Companies]]
 	- TODO [[My/Workflow]]
 	- TODO [[Tools on Tech/Getting Started]]
+- ## Slipnotes
+	-
 -
