@@ -3,4 +3,5 @@
 - ## I'm missing X for my use case
 	- The examples for Contact, Projects and Books are easy to copy and modify. Remember, this is just a starting point
 - ## So I have all this money burning a hole in my pocket
+	- If you want to support more of my free work - https://www.patreon.com/toolsontech
 	-
