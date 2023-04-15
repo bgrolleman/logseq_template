@@ -1,4 +1,5 @@
 type:: [[project]]
+alias:: P001 - Logseq Template
 state:: DOING
 priority:: A
 owner:: [[Bas Grolleman]]
@@ -23,7 +24,7 @@ owner:: [[Bas Grolleman]]
 		- DONE Overview
 	- DONE [[My/Projects]]
 	- DONE [[My/Companies]]
-	- TODO [[My/Workflow]]
+	- DONE [[My/Workflow]]
 	- TODO [[Tools on Tech/Getting Started]]
 - ## Slipnotes
 	- *Place block embeds here*
