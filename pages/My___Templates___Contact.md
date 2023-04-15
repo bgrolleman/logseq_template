@@ -7,6 +7,7 @@
 	  linkedin:: 
 	  youtube::
 	  twitter::
+	  email::
 	  googlecontacts::
 	  company:: 
 	  miniavatar:: ![miniavatar.png](URL to image){:height 24, :width 24}

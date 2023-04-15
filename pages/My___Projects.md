@@ -1,1 +1,1 @@
-- {{query (page-property :type [[project]])}}
+- {{query (and (page-property :type [[project]]) (page-property :state "DOING"))}}

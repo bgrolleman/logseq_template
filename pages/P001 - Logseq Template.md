@@ -11,7 +11,8 @@ priority:: A
 		- DONE Overview
 		- DONE Add Quote section like in [[My]]
 	- DONE Rename quick tour to my page
-	- LATER [[My/Contacts]]
+	- DONE [[My/Contacts]]
+	  collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2023-04-11 Tue 18:08:42]--[2023-04-11 Tue 18:08:42] =>  00:00:00
 	  :END:
