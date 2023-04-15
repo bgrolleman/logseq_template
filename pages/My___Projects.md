@@ -1,0 +1,1 @@
+- {{query (page-property :type [[project]])}}
