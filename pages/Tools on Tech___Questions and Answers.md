@@ -10,4 +10,4 @@
 	- If you want to support more of my free work [Patreon](https://www.patreon.com/toolsontech)
 		- I won't stop making free resources, as I want to help people but any help with my coffee addiction is appreciated.
 	- If you want something cool in return [Tools on Tech Products](https://www.toolsontech.com/products)
-		- For professionals with little time I'm building
+		- Most of my content is free, but I have a couple of specialist products to help professionals that need results now
