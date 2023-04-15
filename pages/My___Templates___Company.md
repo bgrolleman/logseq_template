@@ -1,7 +1,10 @@
-- type:: [[company]]
-  adress::
-  city::
-  website::
+template:: Company
+template-include-parent:: false
+
+adress::
+city::
+website::
+
 	- ## Summary
 		- https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif
 	- ## Slipnotes
