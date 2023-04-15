@@ -1,3 +1,5 @@
-- [[My/Templates/Contact]]
 - [[My/Templates/Book]]
+- [[My/Templates/Contact]]
+- [[My/Templates/Company]]
+- [[My/Templates/Project]]
 -
