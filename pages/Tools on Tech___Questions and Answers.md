@@ -1,3 +1,6 @@
 - ## Where are the advanced queries?
 	- This template is aimed at people starting with Logseq, by using simple queries it's easier to modify and understand
+- ## I'm missing X for my use case
+	- The examples for Contact, Projects and Books are easy to copy and modify. Remember, this is just a starting point
+- ## So I have all this money burning a hole in my pocket
 	-
