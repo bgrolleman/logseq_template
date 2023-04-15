@@ -1,0 +1,3 @@
+- ## Where are the advanced queries?
+	- This template is aimed at people starting with Logseq, by using simple queries it's easier to modify and understand
+	-
