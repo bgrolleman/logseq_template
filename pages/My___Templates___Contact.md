@@ -1,6 +1,6 @@
-- Contact
-  template:: [[contact]] 
-  template-including-parent:: false
+template:: contact 
+template-including-parent:: false
+
 	- type:: [[contact]]
 	  related::
 	  tags:: 

@@ -1,6 +1,6 @@
 template:: Company
 template-include-parent:: false
-
+type:: [[company]] 
 adress::
 city::
 website::
