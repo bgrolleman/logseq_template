@@ -19,7 +19,7 @@ priority:: A
 		- DONE Example
 		- DONE Template
 		- DONE Overview
-	- TODO [[My/Projects]]
+	- DONE [[My/Projects]]
 	- TODO [[My/Companies]]
 	- TODO [[My/Workflow]]
 	- TODO [[Tools on Tech/Getting Started]]

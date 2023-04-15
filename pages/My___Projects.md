@@ -1,1 +1,2 @@
+- A Quick overview of all your open projects
 - {{query (and (page-property :type [[project]]) (page-property :state "DOING"))}}
