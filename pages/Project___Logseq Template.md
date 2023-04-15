@@ -23,7 +23,8 @@ owner:: [[Bas Grolleman]]
 	- DONE [[My/Companies]]
 	- DONE [[My/Workflow]]
 	- DONE [[Tools on Tech/Getting Started]]
+	  collapsed:: true
 		- DONE Record Video
-		- TODO Add to Lemonsqueezy
+		- DONE Add to Lemonsqueezy
 - ## Slipnotes
 	- *Place block embeds here*
